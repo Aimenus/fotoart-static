@@ -3,28 +3,28 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://fotoartstudio.github.io/</loc>
+    <loc>https://aimenus.github.io/fotoart-static/</loc>
     <lastmod>2024-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://fotoartstudio.github.io/portfolio.html</loc>
+    <loc>https://aimenus.github.io/fotoart-static/portfolio.html</loc>
     <lastmod>2024-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://fotoartstudio.github.io/uslugi.html</loc>
+    <loc>https://aimenus.github.io/fotoart-static/uslugi.html</loc>
     <lastmod>2024-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://fotoartstudio.github.io/kontakt.html</loc>
+    <loc>https://aimenus.github.io/fotoart-static/kontakt.html</loc>
     <lastmod>2024-11-01</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
